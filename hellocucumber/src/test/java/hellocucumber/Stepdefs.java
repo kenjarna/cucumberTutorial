@@ -1,4 +1,4 @@
-package hellocucumber;
+package hellocucumber.src.java.hellocucumber.Stepdefs;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
