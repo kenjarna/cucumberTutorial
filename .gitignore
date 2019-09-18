@@ -63,3 +63,18 @@
 .metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
 .metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
 
+hellocucumber/.classpath
+hellocucumber/.project
+hellocucumber/.settings/org.eclipse.core.resources.prefs
+hellocucumber/.settings/org.eclipse.jdt.apt.core.prefs
+hellocucumber/.settings/org.eclipse.jdt.core.prefs
+hellocucumber/.settings/org.eclipse.m2e.core.prefs
+hellocucumber/target/hellocucumber-1.0.0-SNAPSHOT.jar
+hellocucumber/target/maven-archiver/pom.properties
+hellocucumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+hellocucumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+hellocucumber/target/surefire-reports/hellocucumber.RunCucumberTest.txt
+hellocucumber/target/surefire-reports/TEST-hellocucumber.RunCucumberTest.xml
+hellocucumber/target/test-classes/hellocucumber/.gitkeep
+hellocucumber/target/test-classes/hellocucumber/RunCucumberTest.class
+hellocucumber/target/test-classes/hellocucumber/Stepdefs.class
